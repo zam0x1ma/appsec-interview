@@ -21,6 +21,7 @@ func main() {
         "file-path-traversal",
         "file-upload",
         "cors",
+        "sop",
         "idor",
         "owasp-top-10",
     }
